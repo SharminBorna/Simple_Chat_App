@@ -10,5 +10,5 @@ It is a web base simple chat app which is real-time server connected where users
 * Go any browser
 * Visite this url => http://localhost:7000/
 ## Project Description :
-* Chatting apps
-* Upload Image
+* User can chat
+* User can send images to other users
